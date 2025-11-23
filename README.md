@@ -18,8 +18,10 @@ Our project addresses the "Rider E" charge in **Bowling Green, Ohio**—a monthl
 3.  **Targeted Subsidies:** Leverage state funding and the Inflation Reduction Act (IRA) to provide 30% base subsidies, with an additional 10% for projects in low-income communities identified via the Social Vulnerability Index (SVI).
 
 📄 **Read our full Policy Brief** 
-[Read the Fair Energy Pricing Framework (PDF)](./SolarCoders_memo_Fair%20Energy%20Pricing%20Framework.pdf)
-[View the Presentation Slides (PPTX)](./Fair-Energy-Pricing-for-Residential-DERs.pptx)
+
+- [Read the Fair Energy Pricing Framework (PDF)](./SolarCoders_memo_Fair%20Energy%20Pricing%20Framework.pdf)
+
+- [View the Presentation Slides (PPTX)](./Fair-Energy-Pricing-for-Residential-DERs.pptx)
 
 
 ## 📊 Data & Methodology
