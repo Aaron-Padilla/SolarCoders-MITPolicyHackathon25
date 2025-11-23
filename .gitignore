@@ -7,7 +7,6 @@
 
 # Optional: Ignore specific output files if you export them
 *.html
-*.pdf
 
 # --- Python Basics ---
 # Byte-compiled / optimized / DLL files

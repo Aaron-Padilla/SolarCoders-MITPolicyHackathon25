@@ -12,12 +12,15 @@ Our project addresses the "Rider E" charge in **Bowling Green, Ohio**—a monthl
 ## 🏛️ Policy Proposal
 > **Summary:** We recommend replacing the punitive "Rider E" charge with a time-varying export rate that incentivizes battery discharge during summer peak demand, creating a "win-win" for grid reliability and homeowner ROI.
 
-**Key Recommendations:**
+**Key Recommendations**
 1.  **Eliminate Rider E:** Remove the \$4/kW monthly fee for residents who install battery storage, cutting the ROI payback period from 48 years to ~26 years.
 2.  **Time-Varying Export Rates:** Implement a "Peak" export rate ($0.15/kWh) during the top 5% of system demand hours (summer evenings) and a standard off-peak rate ($0.075/kWh).
 3.  **Targeted Subsidies:** Leverage state funding and the Inflation Reduction Act (IRA) to provide 30% base subsidies, with an additional 10% for projects in low-income communities identified via the Social Vulnerability Index (SVI).
 
-📄 **Read our full Policy Brief:** [Link to PDF] [wip]
+📄 **Read our full Policy Brief** 
+[Read the Fair Energy Pricing Framework (PDF)](./SolarCoders_memo_Fair%20Energy%20Pricing%20Framework.pdf)
+[View the Presentation Slides (PPTX)](./Fair-Energy-Pricing-for-Residential-DERs.pptx)
+
 
 ## 📊 Data & Methodology
 We utilized the following datasets to model our financial and grid impact scenarios:
